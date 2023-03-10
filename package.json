@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-assignmentor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Gunal",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "mongodb": "^4.1.3"
+  }
+}
